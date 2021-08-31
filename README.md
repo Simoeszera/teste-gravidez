@@ -3,6 +3,12 @@
 
 ` Desenvolvedor:`  @Simoes
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 ## Visualização (Vídeos e Imagens)
 
 Para pré-visualizar as funções presentes no código basta [clicar aqui](https://www.google.com)
