@@ -3,7 +3,7 @@
 
 ` Desenvolvedor:`  @Simoes
 
-| Oque vem?        | info           | Preço  |
+| Oque vem?        | Info           | Preço  |
 | ------------- |:-------------:| -----:|
 | Parte 1  | testando isso 1 | $1600 |
 | Parte 2  | testando isso 2  |   $12 |
