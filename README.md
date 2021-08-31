@@ -4,3 +4,5 @@ Descrição: Código simples no vrp_inventory nativo da Creative v3, base utiliz
 Desenvolvedor: @Simoes
 
 ## Visualização (Vídeos e Imagens)
+
+Para pré-visualizar as funções presentes no código basta [clicar aqui](https://www.google.com)
