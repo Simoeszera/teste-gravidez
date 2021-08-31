@@ -5,9 +5,9 @@
 
 | Oque vem?        | info           | Preço  |
 | ------------- |:-------------:| -----:|
-| Parte 1     | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Parte 1  | testando isso 1 | $1600 |
+| Parte 2  | testando isso 2  |   $12 |
+| Parte 3  | testando isso 3    |    $1 |
 
 ## Visualização (Vídeos e Imagens)
 
